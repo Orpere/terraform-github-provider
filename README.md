@@ -59,7 +59,9 @@ github_repository.test: Creation complete after 4s [id=terraform-test]
 Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
 ```
 
-_Note_: please check your git repository is created as https://github.com/`<your organization>`/terraform-test
+_Note_: please check your git repository is created as
+
+``` https://github.com/<your organization>/terraform-test```
 
 ### 7 - terraform destroy
 
