@@ -21,7 +21,7 @@ git clone git@github.com:orlando-pereira/terraform-github-provider.git
 ### 2 - move to your repo folder
 
 ```bash
-cd terraform-variables
+cd terraform-github-provider
 ```
 
 ### 3 - export your environnement vars
